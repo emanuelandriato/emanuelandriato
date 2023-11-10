@@ -8,3 +8,6 @@ Desenvolver é uma arte! E nós somos artistas!
 
 Competências:
 C, Pascal, Delphi, C#, Java e MQL5.
+
+Banco de dados:
+SqlLite, MySql, SqlServer e Firebird.
