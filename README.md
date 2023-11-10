@@ -1,7 +1,7 @@
-Emanuel Andriato!!!👋
+Olá, me chamo Emanuel Andriato 👋, sou apaixonado por tecnologia digital! 
 
-Atuando atualmente:
 Analista e Desenvolvedor de Sistemas na RGSystem.
+
 Professor de Análise e Desenvolvimento de Sistemas na FuniFE.
 
 Desenvolver é uma arte! E nós somos artistas!
