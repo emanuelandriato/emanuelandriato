@@ -1,4 +1,10 @@
-### Olá a todos! Emanuel Andriato!!!👋
+Emanuel Andriato!!!👋
 
-- 🔭 I’m currently working on Delphi, C#.
-- 🌱 I’m currently learning CSS, HTML, JAVASCRIPT.
+Atuando atualmente:
+Analista e Desenvolvedor de Sistemas na RGSystem.
+Professor de Análise e Desenvolvimento de Sistemas na FuniFE.
+
+Desenvolver é uma arte! E nós somos artistas!
+
+Competências:
+C, Pascal, Delphi, C#, Java e MQL5.
