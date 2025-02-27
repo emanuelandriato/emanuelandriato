@@ -1,13 +1,7 @@
-Olá, me chamo Emanuel Andriato 👋, sou apaixonado por tecnologia digital! 
+Emanuel Andriato 🚀
+💻 Analista e desenvolvedor de sistemas, professor e criador do projeto Programar é Arte.
+🎨 Apaixonado pela arte do desenvolvimento de software, transformo código em soluções inovadoras.
+📚 Compartilho conhecimento no YouTube 👉 @programarearte
+🔗 Conecte-se comigo: linktr.ee/emanuelandriato
 
-Analista e Desenvolvedor de Sistemas na RGSystem.
-
-Professor de Análise e Desenvolvimento de Sistemas na FuniFE.
-
-Desenvolver é uma arte! E nós somos artistas!
-
-Competências:
-C, Pascal, Delphi, C#, Java e MQL5.
-
-Banco de dados:
-SqlLite, MySql, SqlServer e Firebird.
+🚀 "Para mim, programar não é apenas escrever código, é criar, inovar e transformar o mundo!"
